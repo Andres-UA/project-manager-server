@@ -1,5 +1,5 @@
-//require('./config/config');
-//require('./config/db');
+require('./config/config');
+require('./config/db');
 require('./config/passport');
 
 const express = require('express');
