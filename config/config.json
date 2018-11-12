@@ -6,7 +6,6 @@
     "JWT_EXP": "50m"
   },
   "production": {
-    "PORT": 80,
     "MONGODB_URI": "mongodb://andresu:secret123@ds123532.mlab.com:23532/project_manager",
     "JWT_SECRET": "SECRET#123",
     "JWT_EXP": "50m"
